@@ -1,0 +1,171 @@
+Phase 1: Strengthen the Foundation
+
+Before learning Machine Learning algorithms, build a strong foundation in Python, data manipulation, visualization, statistics, and data preprocessing. These skills are essential for becoming a successful Data Analyst and Data Scientist.
+
+📌 1. Python Basics
+
+Topics to Learn
+Variables
+Data Types
+Operators
+Conditional Statements (if, else)
+Loops (for, while)
+Functions
+Lists
+Tuples
+Dictionaries
+Sets
+String Methods
+List Comprehensions
+File Handling
+Exception Handling
+Practice Projects
+Student Marks Calculator
+ATM System
+Library Management System (Terminal-Based)
+Employee Salary Calculator
+
+📌 2. NumPy
+
+
+NumPy is the fundamental library for numerical computing in Python.
+
+Topics to Learn
+Creating Arrays
+Array Shape and Dimensions
+Indexing and Slicing
+Reshaping Arrays
+Flattening Arrays
+Random Number Generation
+Mathematical Operations
+Mean
+Sum
+Maximum and Minimum
+Standard Deviation
+Matrix Multiplication
+Practice
+Create and manipulate arrays
+Perform statistical calculations
+Practice matrix operations
+
+📌 3. Pandas
+
+
+Pandas is the most important library for data analysis and manipulation.
+
+Reading Data
+Read CSV Files
+Read Excel Files
+Exploring Data
+head()
+tail()
+shape
+info()
+describe()
+columns
+dtypes
+Selecting Data
+loc
+iloc
+Column Selection
+Filtering Rows
+Data Cleaning
+Handle Missing Values
+Remove Duplicates
+Rename Columns
+Replace Values
+Change Data Types
+Data Analysis
+groupby()
+agg()
+value_counts()
+sort_values()
+Combining Data
+merge()
+concat()
+join()
+Practice Datasets
+Titanic Dataset
+Superstore Dataset
+Netflix Dataset
+
+📌 4. Data Visualization (Matplotlib)
+
+
+Learn how to visualize data effectively.
+
+Charts to Learn
+Line Chart
+Bar Chart
+Histogram
+Pie Chart
+Scatter Plot
+Chart Customization
+Titles
+Axis Labels
+Legends
+Grid
+Practice Projects
+Monthly Sales Trend
+Profit by Category
+Student Marks Analysis
+Population Growth Analysis
+
+📌 5. Basic Statistics
+
+
+Statistics is one of the core concepts in Machine Learning.
+
+Central Tendency
+Mean
+Median
+Mode
+Measures of Spread
+Range
+Variance
+Standard Deviation
+Relationships
+Covariance
+Correlation
+Distribution
+Normal Distribution
+Skewness
+Probability Basics
+Probability
+Conditional Probability
+Bayes' Theorem (Basic Understanding)
+Practice
+
+Calculate and interpret:
+
+Mean
+Median
+Standard Deviation
+Correlation
+
+📌 6. Data Preprocessing
+
+
+Data preprocessing prepares raw data for Machine Learning models.
+
+Topics to Learn
+Missing Values
+Fill Missing Values
+Remove Missing Values
+Encoding Categorical Data
+Label Encoding
+One-Hot Encoding
+Feature Scaling
+StandardScaler
+MinMaxScaler
+Dataset Splitting
+Train-Test Split
+Outlier Detection
+IQR Method
+Z-Score Method
+Practice Workflow
+Remove Duplicates
+Handle Missing Values
+Encode Categorical Variables
+Scale Numerical Features
+Split Dataset into Training and Testing Sets
